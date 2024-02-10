@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
     style.textContent = `
         md {
             font-family: sans-serif;
-            /* Adicione outros estilos aqui, se desejar */
         }
     `;
     document.head.appendChild(style);

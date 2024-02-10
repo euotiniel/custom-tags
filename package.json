@@ -10,6 +10,7 @@
   "author": "otonielemanuel",
   "license": "ISC",
   "dependencies": {
-    "marked": "^12.0.0"
+    "marked": "^12.0.0",
+    "qrcode": "^1.5.3"
   }
 }
